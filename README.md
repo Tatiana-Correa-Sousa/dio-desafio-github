@@ -1,4 +1,4 @@
-![computer](/img/computer.jpg)
+<img src="/img/computer.jpg" width="200" height="200">
 
 # Primeiro Desafio Programa Full-stack MRV
 
